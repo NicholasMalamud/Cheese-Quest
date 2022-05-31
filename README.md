@@ -20,4 +20,4 @@ How to Play:
 
 
 
-  Find the 3 cheese slices in the maze then go to the finish line.
+          Find the 3 cheese slices in the maze then go to the finish line.
